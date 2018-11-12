@@ -1,0 +1,6 @@
+DEBUG:root:This is a debug log message
+INFO:root:This is a info log message
+WARNING:root:This is a warning log message
+ERROR:root:This is a error log message
+CRITICAL:root:This is a critical log message
+INFO:root:temp variable is empty

@@ -1,0 +1,6 @@
+bilalsaeed 11/05/2018 06:16:31 AM: DEBUG: logging_custom.py: main(): 30: this is a debug message
+bilalsaeed 11/05/2018 06:16:31 AM: INFO: logging_custom.py: main(): 31: this is a info message
+bilalsaeed 11/05/2018 06:16:31 AM: WARNING: logging_custom.py: main(): 32: this is a warning message
+bilalsaeed 11/05/2018 06:16:31 AM: ERROR: logging_custom.py: main(): 33: this is a error message
+bilalsaeed 11/05/2018 06:16:31 AM: CRITICAL: logging_custom.py: main(): 34: this is a critical message
+bilalsaeed 11/05/2018 06:16:31 AM: INFO: logging_custom.py: deleteItem(): 10: Deleting something...
